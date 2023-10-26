@@ -1,4 +1,4 @@
-/*MARC PUIG CREIXELL.   NIUB:20576474*/
+/*MARC PUIG CREIXELL*/
 /*Aquesta funció aplica el mètode la potència inversa i retorna s, el VAP de
 mòdul mínim de la matriu*/
 #include "GS.c"
