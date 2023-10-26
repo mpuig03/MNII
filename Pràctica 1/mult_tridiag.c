@@ -1,4 +1,4 @@
-/*MARC PUIG CREIXELL.   NIUB:20576474*/
+/*MARC PUIG CREIXELL*/
 /*Funció que multiplica una matriu tridiagonal de diagional A[i][i]=[a1,...,an] i 
 diagonals secundaries fixes A[i][i-1]=A[i][i+1]=b per un vector v1=[v1,...,vn] 
 i posa el resultat en un vector v2=[v1',...,vn']*/
