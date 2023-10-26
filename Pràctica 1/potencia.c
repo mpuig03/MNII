@@ -1,4 +1,4 @@
-/*MARC PUIG CREIXELL.   NIUB:20576474*/
+/*MARC PUIG CREIXELL*/
 /*Aquesta funció aplica el mètode de la potència i retorna el valor s, el VAP de
 mòdul màxim de la matriu*/
 
