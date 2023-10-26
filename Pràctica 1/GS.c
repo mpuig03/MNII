@@ -1,4 +1,4 @@
-/*MARC PUIG CREIXELL.   NIUB:20576474*/
+/*MARC PUIG CREIXELL*/
 /*Aquesta funció serveix per aplicar el mètode de Gauss-Seidel per a resolució
 de sistemes en el cas d'una matriu tridiagonal de diagional A[i][i]=[a1,...,an] i 
 diagonals secundaries fixes A[i][i-1]=A[i][i+1]=b i terme independent v=[v1,...,vn]*/
