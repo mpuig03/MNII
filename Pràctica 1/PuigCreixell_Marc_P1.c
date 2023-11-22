@@ -1,4 +1,4 @@
-/*MARC PUIG CREIXELL.   NIUB:20576474*/
+/*MARC PUIG CREIXELL.*/
 /*Funció principal. Reserva la memòria dinàmica, assigna els valors de la matriu i 
 crida a les diferents funcions necessàries.*/
 
